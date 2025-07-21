@@ -13,9 +13,9 @@ This is a simple PHP application for managing users, allowing you to add users, 
 
 ![Project Screenshot](images/project.gif)
 
-![Backend Screenshot](images/backend.jpg)
-
 ### Backend (Database Table)
+
+![Backend Screenshot](images/backend.jpg)
 
 
 ## File Structure
