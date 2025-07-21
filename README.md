@@ -7,6 +7,15 @@ This is a simple PHP application for managing users, allowing you to add users, 
 - View all users in a table
 - Toggle user status (active/inactive)
 
+## Screenshots
+
+### Project UI
+![Project Screenshot](images/project.gif)
+
+### Backend (Database Table)
+![Backend Screenshot](images/backend.jpg)
+
+
 ## File Structure
 
 - `db.php` — Database connection setup
