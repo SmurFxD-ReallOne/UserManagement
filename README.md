@@ -13,7 +13,6 @@ This is a simple PHP application for managing users, allowing you to add users, 
 ![Project Screenshot](images/project.gif)
 
 ### Backend (Database Table)
-![Backend Screenshot](images/backend.jpg)
 
 
 ## File Structure
@@ -50,7 +49,7 @@ This is a simple PHP application for managing users, allowing you to add users, 
 5. **Start your web server (e.g., XAMPP, WAMP, MAMP) and navigate to the project folder in your browser.**
 
 ## Usage
-- Go to `http://localhost/test/` in your browser.
+- Go to `http://localhost/Your_Folder_Name` in your browser.
 - Add users using the form.
 - View, and toggle user status in the table.
 
